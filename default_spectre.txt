@@ -1,0 +1,68 @@
+"itembuilds"
+{
+	"author"		"Valve"
+	"hero"			"npc_dota_hero_spectre"
+	"Title"			"Recommended items for Spectre"
+	
+	"Items"
+	{		
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			"item"		"item_boots"
+			"item"		"item_ring_of_basilius"
+			"item"		"item_soul_ring"
+			"item"		"item_bracer"
+			"item"		"item_wraith_band"
+			"item"		"item_null_talisman"
+			"item"		"item_tranquil_boots"
+			"item"		"item_phase_boots"
+			"item"		"item_power_treads"	
+
+			"item"		"item_ring_of_health"
+			"item"		"item_claymore"
+			"item"		"item_blink"
+                                    	"item"		"item_lifesteal"
+			"item"		"item_urn_of_shadows"
+			"item"		"item_headdress"
+			"item"		"item_blade_mail"
+			"item"		"item_cyclone"
+			"item"		"item_hand_of_midas"	
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		{
+			"item"		"item_energy_booster"
+			"item"		"item_vitality_booster"
+			"item"		"item_point_booster"
+			"item"		"item_platemail"
+			"item"		"item_ultimate_orb"
+			"item"		"item_reaver"
+			"item"		"item_black_king_bar"
+			"item"		"item_yasha"
+			"item"		"item_sange"
+			"item"		"item_invis_sword"
+			"item"		"item_maelstrom"
+			"item"		"item_lesser_crit"
+		
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		{
+			"item"		"item_bfury"
+			"item"		"item_diffusal_blade"
+			"item"		"item_desolator"
+			"item"		"item_basher"
+			"item"		"item_monkey_king_bar"
+			"item"		"item_butterfly"
+			"item"		"item_sphere"
+			"item"		"item_shivas_guard"
+			"item"		"item_assault"
+			"item"		"item_sheepstick"
+			"item"		"item_orchid"
+			"item"		"item_skadi"
+			"item"		"item_soul_booster"
+			"item"		"item_moon_shard"
+			"item"		"item_relic"
+		}
+	}
+}
